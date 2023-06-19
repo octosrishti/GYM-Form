@@ -15,6 +15,6 @@ Contact Form:  This project involves designing a contact form that collects rele
 
 
 # Technologies Used
-Javascript
-CSS
-Pug
+1. Javascript
+2. CSS
+3. Pug
